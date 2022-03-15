@@ -6,9 +6,9 @@
 <a href="https://twitter.com/brunofbmatos" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/twitter.svg" height="30px" ></a>
 </p>
 
-- Programming: C# , asp.net core, c++
+- Programming: C# , asp.net, asp.net core, c++
 - Databases: Sql Server, MySQL, PostgreSql, Oracle
-- I’m currently learning: F#, Python, R, Julia, Jupyter Notebook
+- I’m currently learning: F#
 - Graduate in Information Systems
 - Post Graduation in Specialization in Strategies in Systems Architecture Development
 - Master student in Information Systems and Knowledge Management 
