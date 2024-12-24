@@ -11,5 +11,5 @@
 - I’m currently learning: F#
 - Graduate in Information Systems
 - Post Graduation in Specialization in Strategies in Systems Architecture Development
-- Master student in Information Systems and Knowledge Management 
+- Master in Information Systems and Knowledge Management 
 <br>
